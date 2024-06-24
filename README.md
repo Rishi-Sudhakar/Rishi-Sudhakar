@@ -7,7 +7,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Rishi-Sudhakar&color=green)
 
-![hi-oomf-cute-anime-girl-vtuber](https://github.com/Rishi-Sudhakar/Rishi-Sudhakar/assets/79398572/4cfcea8d-4177-47f4-8dce-51208fef39b3)
+![hi-oomf-cute-anime-girl-vtuber](https://github.com/Rishi-Sudhakar/Rishi-Sudhakar/assets/79398572/c1454943-5aed-4759-9c1f-ded80528fd25)
+
 ## About Me?:
 
 - 🛠 &nbsp; I’m currently working with Node.js and npm modules etc.
@@ -213,9 +214,8 @@ This does not translate directly to my progamming knowledge.
 
 ## Show some ❤️ by starring some of the repositories!
 <div align="center">
-  <img src="https://github.com/Rishi-Sudhakar/Rishi-Sudhakar/assets/79398572/7f5356ab-d951-4163-99ed-a2f01acbd039">
+  <img src="https://github.com/Rishi-Sudhakar/Rishi-Sudhakar/assets/79398572/dfcd4ca4-d975-4e9e-952c-c5cac93b86f7">
 </div>
-
 
 </div>
 
