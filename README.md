@@ -184,6 +184,7 @@
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishi-Sudhakar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Sudhakar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://api.githubtrends.io/user/svg/Rishi-Sudhakar/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </details>
 
 This does not translate directly to my progamming knowledge.
