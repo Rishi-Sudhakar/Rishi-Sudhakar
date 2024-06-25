@@ -3,7 +3,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/RishiSudhakar_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rishi-sudhakar)
 <img height="20" src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white">
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/X6fEkSlESZKQBhms3TosxA?identity__email=rishisudhakar123%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/X6fEkSlESZKQBhms3TosxA/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>26-Jun-2024</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FX6fEkSlESZKQBhms3TosxA%3Fidentity__email%3Drishisudhakar123%2540gmail.com&amp;identity__email=rishisudhakar123%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/X6fEkSlESZKQBhms3TosxA?identity__email=rishisudhakar123%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/X6fEkSlESZKQBhms3TosxA/image"></a></blockquote> 
+
+[![Google ads](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/106957726)](https://skillshop.credential.net/ba4dae10-8daa-4fc0-ae30-f604aedb08e6)
 
 ## Glad to see you here! &nbsp; 
 
@@ -226,13 +228,13 @@ This does not translate directly to my progamming knowledge.
   <h1 align="center">Summary Of My Github Live Graph</h1>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishi-Sudhakar&theme=github_dark)
-
-
-###
+<div align="center">
+	
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishi-Sudhakar&theme=github_dark)
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Rishi-Sudhakar/Rishi-Sudhakar/output/snake.svg" alt="Snake animation" />
 
-###
+#
+</div>
