@@ -7,7 +7,7 @@
 
 [![Google ads](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/106957726)](https://skillshop.credential.net/ba4dae10-8daa-4fc0-ae30-f604aedb08e6)
 
-## Glad to see you here! &nbsp; 
+## Glad to see you here 💕! &nbsp; 
 
 ![](https://komarev.com/ghpvc/?username=Rishi-Sudhakar&color=green)
 
@@ -15,7 +15,7 @@
 
 ## About Me?:
 
-- 🛠 &nbsp; I’m currently working with Node.js and npm modules etc.
+- 🛠 &nbsp; I’m currently working with Node.js, Express and Angular projects, also making readme's for my old projects and pushing them on daily basis.😓
 - 🚀 &nbsp; Highly active. Highly entusiastic in tech. Audiophile (Hifiman sundara/ifi audio zen can, Thieaudio legacy 3)
 - 💬 &nbsp; Ask me anything! I am happy to help.
 - 👾 &nbsp; Exploring the fine line between genius and insanity.
@@ -162,7 +162,7 @@
 <img src="https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-### Music:
+### Music uwu🎶 :
 
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"> <img src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white">
 
@@ -206,7 +206,7 @@ This does not translate directly to my progamming knowledge.
   	<ul>
   	    <li><b>OS:</b> MacOS 15 Sequoia (Dev beta)</li>
 	    <li><b>Laptop: </b> Macbook Pro M1</li>
-  	    <li><b>Browser: </b> ARC & Safari</li>
+  	    <li><b>Browser: </b> ARC, Safari and LibreWolf</li>
 	    <li><b>Terminal: </b> ZSH</li>
 	    <li><b>Code Editor:</b> TextEdit - Cuz why not, and obviously Sublime Text, VSC</li>
  	    <li><b>Other Tools:</b> Docker(Thank you god), Homebrew, npm, yarn etc</li>
