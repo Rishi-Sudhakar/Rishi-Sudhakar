@@ -5,8 +5,6 @@
 <img height="20" src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white">
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/X6fEkSlESZKQBhms3TosxA?identity__email=rishisudhakar123%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/X6fEkSlESZKQBhms3TosxA/image"></a></blockquote> 
 
-[![Google ads](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/106957726)](https://skillshop.credential.net/ba4dae10-8daa-4fc0-ae30-f604aedb08e6)
-
 ## Glad to see you here 💕! &nbsp; 
 
 ![](https://komarev.com/ghpvc/?username=Rishi-Sudhakar&color=green)
