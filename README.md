@@ -156,7 +156,7 @@
   <img src="https://api.githubtrends.io/user/svg/Rishi-Sudhakar/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </details>
 
-This does not translate directly to my progamming knowledge.
+This does not translate directly to my progamming knowledge. B Grade - Top 50% (Japanese ranking system)
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
