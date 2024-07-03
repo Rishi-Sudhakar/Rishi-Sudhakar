@@ -3,9 +3,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/RishiSudhakar_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rishi-sudhakar)
 <img height="20" src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white">
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/X6fEkSlESZKQBhms3TosxA?identity__email=rishisudhakar123%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/X6fEkSlESZKQBhms3TosxA/image"></a></blockquote> 
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/X6fEkSlESZKQBhms3TosxA?identity__email=rishisudhakar123%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/X6fEkSlESZKQBhms3TosxA/image"></a></blockquote>
 
-## Glad to see you here 💕! &nbsp; 
+## Glad to see you here 💕! &nbsp;
 
 ![](https://komarev.com/ghpvc/?username=Rishi-Sudhakar&color=green)
 
