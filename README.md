@@ -13,7 +13,6 @@
 
 ## About Me?:
 
-- 🛠 &nbsp; I’m currently working with Node.js, Express and Angular projects, also making readme's for my old projects and pushing them on daily basis.😓
 - 🚀 &nbsp; Highly active. Highly entusiastic in tech. Audiophile (Hifiman sundara/ifi audio zen can, Thieaudio legacy 3)
 - 💬 &nbsp; Ask me anything! I am happy to help.
 - 👾 &nbsp; Exploring the fine line between genius and insanity.
@@ -22,7 +21,7 @@
 
 - 💻 &nbsp; I love sleeping and reading tech articles.
 - 📰 &nbsp; Love debating and arguing in pointless tech conversations.
-- 🍕 &nbsp; Love and adore every single milestone in tech, every single technological advancements, a step into the future of mankind. I'd like to be a part of it, So HIRE ME!
+- 🍕 &nbsp; Love and adore every milestone in tech.
 
 ## Languages and Tools:
 
@@ -144,7 +143,6 @@
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishi-Sudhakar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Sudhakar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   <img src="https://api.githubtrends.io/user/svg/Rishi-Sudhakar/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </details>
 
@@ -163,10 +161,10 @@ This does not translate directly to my progamming knowledge. B+ Grade - Top 37.5
   	<ul>
   	    <li><b>OS:</b> MacOS 15 Sequoia (Dev beta)</li>
 	    <li><b>Laptop: </b> Macbook Pro M1</li>
-  	    <li><b>Browser: </b> ARC, Safari and LibreWolf</li>
-	    <li><b>Terminal: </b> ZSH</li>
-	    <li><b>Code Editor:</b> TextEdit - Cuz why not, and obviously Sublime Text, VSC</li>
- 	    <li><b>Other Tools:</b> Docker(Thank you god), Homebrew, npm, yarn etc</li>
+  	    <li><b>Browser: </b> ARC </li>
+	    <li><b>Terminal: </b> ZSH </li>
+	    <li><b>Code Editor:</b> TextEdit, Sublime </li>
+ 	    <li><b>Other Tools:</b> Docker, Postman </li>
 	</ul>
 </details>
 
