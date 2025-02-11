@@ -8,7 +8,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Rishi-Sudhakar&color=green)
 
-![hi-oomf-cute-anime-girl-vtuber](https://github.com/Rishi-Sudhakar/Rishi-Sudhakar/assets/79398572/c1454943-5aed-4759-9c1f-ded80528fd25)
+![You Know It (1)](https://github.com/user-attachments/assets/8e2be723-35be-48ca-b32c-c618eec6dc9c)
+
 
 ## About Me?:
 
