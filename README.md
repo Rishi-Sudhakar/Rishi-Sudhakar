@@ -18,7 +18,6 @@
   <img src="https://github.com/user-attachments/assets/8e2be723-35be-48ca-b32c-c618eec6dc9c" alt="You Know It (1)" />
 </p>
 
-
 ## About Me?:
 
 - 🚀 &nbsp; Highly active. Highly entusiastic in tech. Audiophile (Hifiman sundara/ifi audio zen can, Thieaudio legacy 3)
@@ -33,7 +32,7 @@
 
 ## Languages and Tools:
 
- ### Artificial Intelligence and Machine Learning:
+### Artificial Intelligence and Machine Learning:
 
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot">
@@ -43,8 +42,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
 </p>
 
- ### Cloud:
- 
+### Cloud:
+
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github Actions">
@@ -53,8 +52,8 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
- ### Database:
- 
+### Database:
+
 <p align="center">
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" alt="Cassandra"> <img height="27" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img height="27" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -63,14 +62,14 @@
   <img height="27" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
 </p>
 
- ### Design and UI/UX:
- 
+### Design and UI/UX:
+
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
- ### Frameworks and Libraries:
- 
+### Frameworks and Libraries:
+
 <p align="center">
   <img height="27" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"> <img height="27" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
   <img height="27" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
@@ -106,8 +105,8 @@
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 </p>
 
- ### IDE:
- 
+### IDE:
+
 <p align="center">
   <img height="27" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"> <img height="27" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab">
   <img height="27" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="Emacs">
@@ -160,9 +159,7 @@
   <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
-
 ## Like My Work?
-
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/RishiSudhakar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
@@ -175,7 +172,7 @@
 
   <br />
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rishi-Sudhakar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://raw.githubusercontent.com/Rishi-Sudhakar/Rishi-Sudhakar/output/github-stats.svg" />
   </p>
 </details>
 
@@ -208,6 +205,7 @@ This does not translate directly to my progamming knowledge. B+ Grade - Top 37.5
 <div align="center">
 
 ## Show some ❤️ by starring some of the repositories!
+
 <div align="center">
   <img src="https://github.com/Rishi-Sudhakar/Rishi-Sudhakar/assets/79398572/dfcd4ca4-d975-4e9e-952c-c5cac93b86f7">
 </div>
@@ -227,4 +225,5 @@ This does not translate directly to my progamming knowledge. B+ Grade - Top 37.5
 <img src="https://raw.githubusercontent.com/Rishi-Sudhakar/Rishi-Sudhakar/output/snake.svg" alt="Snake animation" />
 
 #
+
 </div>
