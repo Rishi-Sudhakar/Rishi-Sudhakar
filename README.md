@@ -176,7 +176,7 @@
   </p>
 </details>
 
-This does not translate directly to my progamming knowledge. B+ Grade - Top 37.5% to 50% Globally (Japanese ranking system)
+This does not translate directly to my programming knowledge. Available ranks are S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone). This ranking scheme is based on the Japanese academic grading system.
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
@@ -191,10 +191,10 @@ This does not translate directly to my progamming knowledge. B+ Grade - Top 37.5
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 15 Sequoia (Dev beta)</li>
-	    <li><b>Laptop: </b> Macbook Pro M1</li>
+  	    <li><b>OS:</b> macOS Tahoe 26.3 &amp; Windows 11 Pro</li>
+	    <li><b>Laptop: </b> MacBook Air M4 &amp; Dell XPS</li>
   	    <li><b>Browser: </b> ARC </li>
-	    <li><b>Terminal: </b> ZSH </li>
+	    <li><b>Terminal: </b> Oh My Zsh </li>
 	    <li><b>Code Editor:</b> TextEdit, Sublime </li>
  	    <li><b>Other Tools:</b> Docker, Postman </li>
 	</ul>
