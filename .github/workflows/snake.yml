@@ -1,17 +1,20 @@
 name: Generate snake animation
 on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
+  schedule: # execute every 24 hours
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - master
+concurrency:
+  group: snake
+  cancel-in-progress: true
 jobs:
   generate:
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 60
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
     steps:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
@@ -19,9 +22,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
       - name: generate github-stats.svg
-        run: curl -s "https://github-readme-stats-eight-theta.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" > dist/github-stats.svg
+        run: curl -fsS --retry 3 "https://github-readme-stats-eight-theta.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" > dist/github-stats.svg
       - name: push assets to the output branch
-        uses: crazy-max/ghaction-github-pages@v4.1.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist
